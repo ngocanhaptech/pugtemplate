@@ -1,2 +1,2 @@
 ## Reactwebap
-This project to create frontend with nodejs or build html static site
+This project to create frontend with react site
